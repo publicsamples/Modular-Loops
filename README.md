@@ -6,10 +6,13 @@ Sequenced, multi-sampled loops recorded with a modular synth.
 
 **[Download Audio Files](https://github.com/publicsamples/Modular-Loops/releases/tag/1.0)**
 
-# Support this project
+## **Get help**
 
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
+
+## **Support this project**
 
 [
-![excessive-hits](https://www.modularsamples.com/samples/product/excessive-hits/excessive-small.jpg)
-](https://www.modularsamples.com/samples/product/excessive-hits/)
+![loop](https://www.modularsamples.com/img/ulp.jpg)
+](https://www.modularsamples.com/untitled-loop-project/)
+
